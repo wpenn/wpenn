@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 🔭 I'm a Computer Vision Software Engineer at AWS, and a Machine Learning / Computer Vision researcher in the GRASP Lab at the University of Pennsylvania<br>👯 I’m looking to collaborate on new ventures and projects in the ML space<br>🌱 I’m currently learning about robotic perception and learning<br>💬 Ask me about Computer Vision and Cloud
 
 # 💻 Tech Stack:
@@ -13,3 +13,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ -->
